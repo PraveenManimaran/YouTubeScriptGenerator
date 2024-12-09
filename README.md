@@ -9,3 +9,6 @@ A Streamlit-powered web application that generates YouTube video titles and scri
 - **Memory Buffer**: Tracks the history of generated titles and scripts.
 - **User-Friendly Interface**: Includes clear instructions and formatted outputs for better readability.
 
+Preview:
+
+ ![Preview](screenshots/pic1.png)
