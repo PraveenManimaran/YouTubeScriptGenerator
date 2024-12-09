@@ -1,4 +1,4 @@
-# 🦜🔗 YouTube Script Generator
+# YouTube Script Generator
 
 A Streamlit-powered web application that generates YouTube video titles and scripts based on user-provided topics. This app leverages OpenAI's large language models via LangChain and incorporates Wikipedia research to create engaging and informative content.
 
